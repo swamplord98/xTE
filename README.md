@@ -3,3 +3,6 @@ xTE is a text editor writen in Java. It's a solo project that I (Swamplord98) am
 
 # v0.01
 The first version on xTE. Nothing works other than you can type.
+
+# v0.02
+You can now Save and Open files.
